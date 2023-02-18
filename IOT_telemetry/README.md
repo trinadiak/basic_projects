@@ -3,7 +3,7 @@
 Dataset source: https://www.kaggle.com/datasets/garystafford/environmental-sensor-data-132kv <br>
 Total rows: 405,184
 
-This project is focused on comparing the performance between KNN and Logistic Regression in predicting 
+This project is focused on comparing the performance between KNN and Logistic Regression in predicting the detected light with 2 features: humidity and temperature
 
 ### Data Description
 
